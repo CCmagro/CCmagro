@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CCmagro
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning mangos (a wow server)
+- 💞️ I’m looking to collaborate on mangos
+- 📫 How to reach me in discord, Kamus#3874
